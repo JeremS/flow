@@ -1,11 +1,16 @@
 # flow
 
+```clojure
+[jeremys/flow "0.1.0-alpha1"]
+```
+
 This library provides a simple dataflow engine. It is created with
 om-next's default db format in mind. However since this db format is
 just Clojure data...
 
 
 ## Usage
+
 Here is part of the example used in the devcards.
 
 You have a db that looks like this:
