@@ -16,8 +16,8 @@ You have a db that looks like this:
    :charges/by-id {1 {:id 1 :name "Marketing" :cost 100}}})
 ```
 
-You want to have reactions that sums the charges and compute what is the of you turnover
-after these charges.
+You want to have reactions that add the charges and compute what is
+left of the turnover after these charges.
 
 You start by defining reactions:
 
