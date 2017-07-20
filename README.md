@@ -49,6 +49,7 @@ You start by defining reactions:
    :srcs {[:computed :total-charges] :cs
           [:parameters :turnover] :t}
    :dest [:computed :result]
+   :fn compute-result})
 ```
 
 Then you build a dataflow system:
