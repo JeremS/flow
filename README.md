@@ -1,8 +1,7 @@
 # flow
 
-```clojure
-[jeremys/flow "0.1.0-alpha1"]
-```
+
+[![Clojars Project](https://img.shields.io/clojars/v/jeremys/flow.svg)](https://clojars.org/jeremys/flow)
 
 This library provides a simple dataflow engine. It is created with
 om-next's default db format in mind. However since this db format is
