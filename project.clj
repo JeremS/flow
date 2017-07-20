@@ -1,4 +1,4 @@
-(defproject flow "0.1.0-alpha1"
+(defproject jeremys/flow "0.1.0-alpha1"
   :description "Little dataflow engine"
   :url "https://github.com/JeremS/flow"
   :license {:name "Eclipse Public License"
